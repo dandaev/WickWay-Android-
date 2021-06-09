@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name" translatable="false">WikWay</string>
+
+    <string name="noInet">Internet connection is failed.</string>
+    <string name="retry">Retry</string>
+    <string name="was_added">Job active to :</string>
+    <string name="aboutUs">This app was delivered by Dandaev Alybek as a study project for Module "Mobile apps".</string>
+    <string name="suchen">Search</string>
+    <string name="geben_sie_den_text_ein">Enter the search text…</string>
+    <string name="about_us">About us</string>
+    <string name="anchreiben">Description</string>
+</resources>

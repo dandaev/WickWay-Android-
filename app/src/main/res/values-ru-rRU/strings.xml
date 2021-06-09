@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WikWay</string>
+    <string name="noInet">Нет интернет подключения</string>
+    <string name="retry">Повторить</string>
+    <string name="was_added">Действительно до:</string>
+    <string name="aboutUs">Данное приложение разработал Алыбек Дандаев для учебного модуля "Разработка мобильных приложений".</string>
+    <string name="suchen">Поиск</string>
+    <string name="geben_sie_den_text_ein">Введите текст поиска…</string>
+    <string name="about_us">О нас</string>
+    <string name="anchreiben">Описание</string>
+</resources>

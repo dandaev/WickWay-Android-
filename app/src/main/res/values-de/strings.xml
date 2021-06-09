@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WikWay</string>
+
+
+    <string name="noInet">Internet-Verbindung ist fehlgeschlagen.</string>
+    <string name="retry">Wiederholen</string>
+    <string name="was_added">Stelle aktiv bis:</string>
+    <string name="aboutUs">Diese Anwendung wurde von Dandaev Alybek als Lehrprojekt für das Modul "Mobile Anwendungen" entwickelt</string>
+    <string name="suchen">Suchen</string>
+    <string name="geben_sie_den_text_ein">Geben Sie den Text ein. . .</string>
+    <string name="about_us">Über uns</string>
+    <string name="anchreiben">Anchreiben</string>
+</resources>
